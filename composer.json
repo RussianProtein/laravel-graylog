@@ -28,7 +28,7 @@
         "illuminate/contracts": "^10.0|^11.0",
         "illuminate/log": "^10.0|^11.0",
         "illuminate/support": "^10.0|^11.0",
-        "monolog/monolog": "^2.0|^3.3"
+        "monolog/monolog": "^3.x"
     },
     "require-dev": {
         "ext-sockets": "*",
